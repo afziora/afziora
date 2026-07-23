@@ -1,15 +1,18 @@
 # Hi there 👋, I'm AFZIORA
 
-💡 **From Root Problems, Born Solutions.**  
-🚀 Building technology solutions through **Code, Hardware, and Innovation.**
+💡 **Dari Akar Masalah, Lahir Solusi.**  
+🚀 **From Root Problems, Born Solutions.**
 
-Welcome to AFZIORA — a technology space focused on creating real-world solutions through:
+Building technology solutions through **Code, Hardware, and Innovation.**
+
+Welcome to **AFZIORA** — a technology space focused on creating real-world solutions by combining:
 
 - 🔌 Internet of Things (IoT)
 - 🤖 Embedded Systems & Robotics
 - 💻 Software Development
 - 🧠 Artificial Intelligence & Machine Learning
 - ⚙️ Automation & Electronics
+- ☁️ Backend Systems & Cloud Technology
 
 ---
 
@@ -17,8 +20,9 @@ Welcome to AFZIORA — a technology space focused on creating real-world solutio
 
 - Building IoT-based systems using **Arduino, ESP32, and Microcontrollers**
 - Developing embedded solutions combining hardware and software
-- Creating educational content about programming and electronics
+- Creating IoT dashboards and backend services
 - Exploring AI integration for future technology solutions
+- Sharing knowledge about programming, electronics, and technology projects
 
 ---
 
@@ -26,6 +30,7 @@ Welcome to AFZIORA — a technology space focused on creating real-world solutio
 
 - C & C++ for Embedded Programming
 - Python for AI, Automation & Data Processing
+- Go (Golang) for Backend Development, APIs & Cloud Services
 - Web Development for IoT Dashboard
 - PCB Design & Hardware Development
 - Machine Learning & Computer Vision
@@ -35,21 +40,25 @@ Welcome to AFZIORA — a technology space focused on creating real-world solutio
 ## 🛠️ Technology Stack
 
 ### Programming
+
 <p>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white"/>
 <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white"/>
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ### Embedded & IoT
+
 <p>
 <img src="https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white"/>
 <img src="https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge"/>
 <img src="https://img.shields.io/badge/PlatformIO-FF7F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge"/>
 </p>
 
-### Web & Tools
+### Web, Backend & Tools
 
 <p>
 <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
@@ -62,10 +71,11 @@ Welcome to AFZIORA — a technology space focused on creating real-world solutio
 
 ## 🚀 Projects
 
-Some areas I build and explore:
+Building and exploring solutions in:
 
 🔹 Smart IoT Devices  
 🔹 Sensor Monitoring Systems  
+🔹 IoT Dashboard & Backend Services  
 🔹 Automation Projects  
 🔹 Robotics & Control Systems  
 🔹 Embedded Applications  
@@ -78,7 +88,8 @@ Some areas I build and explore:
 - Arduino & Microcontrollers
 - ESP32 IoT Projects
 - Embedded Programming
-- C/C++ Programming
+- C/C++ & Go Programming
+- Backend API Development
 - Electronics & Hardware Development
 - Building Technology Projects
 
@@ -89,6 +100,7 @@ Some areas I build and explore:
 - Open Source Hardware Projects
 - IoT Solutions
 - Embedded Systems
+- Backend & Cloud Technology
 - Robotics Projects
 - Technology Education
 
@@ -102,11 +114,11 @@ Some areas I build and explore:
 
 ---
 
-## ⚡ Fun Fact
+## ⚡ Philosophy
 
-> Great technology starts from understanding problems.  
-> **AFZIORA believes every problem has a solution waiting to be built.**
+> **"Dari Akar Masalah, Lahir Solusi."**  
+> Every great technology starts by understanding problems and building meaningful solutions.
 
 ---
 
-⭐ **Code Ideas. Build Real Systems.**
+⭐ **AFZIORA — Code Ideas. Build Real Systems.**
